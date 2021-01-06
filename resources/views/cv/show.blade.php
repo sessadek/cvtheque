@@ -6,7 +6,7 @@
 <div class="container" id="app">
 	<div class="row">
 		<div class="col-md-12">
-			<h1 class="text-center text-dark">@{{ message }}</h1>
+			<!-- <h1 class="text-center text-dark">@{{ message }}</h1> -->
 
 			<br>
 
@@ -275,7 +275,7 @@
 
 				</div>
 				<!-- Fin division : Compétences-->
-				
+
 			<!-- La division  : Langues -->
 			<div class="card border-primary mb-3">
 
